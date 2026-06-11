@@ -1,5 +1,5 @@
 import './App.css'
-import Sidebar from './component/SideBar/Sidebar'
+import Sidebar from './component/SideBar/SideBar'
 import { Routes, Route } from 'react-router-dom'
 import Dashboard from './component/Dashboard/Dashboard'
 import History from './component/History/History'
