@@ -1,4 +1,3 @@
-// import React from 'react'
 import styles from './SideBar.module.css'
 import ArticleIcon from '@mui/icons-material/Article';
 import DashboardIcon from '@mui/icons-material/Dashboard';
